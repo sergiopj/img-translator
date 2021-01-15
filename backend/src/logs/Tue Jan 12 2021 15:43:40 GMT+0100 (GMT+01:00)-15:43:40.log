@@ -1,0 +1,10 @@
+[12-01-2021 15:44:57][INFO][SUCCESS] File removed on path /home/sergiopj/WORK/photo-translator/photo-translator-backend/src/images/image.png
+[12-01-2021 15:44:58][INFO][SUCCESS] Guardado de estadisticas en la bd de la traduccion 5ffdb5eae3e578a5fb4d3c96
+[12-01-2021 15:44:58][INFO][SUCCESS] Traducción realizada correctamente con id 5ffdb5eae3e578a5fb4d3c96
+[12-01-2021 15:44:58][INFO][SUCCESS] Se guardan en bd los datos del cliente que accede con id 5ffdb5eae3e578a5fb4d3c97
+[12-01-2021 15:45:17][INFO][SUCCESS] File removed on path /home/sergiopj/WORK/photo-translator/photo-translator-backend/src/images/image.png
+[12-01-2021 15:45:18][INFO][SUCCESS] Guardado de estadisticas en la bd de la traduccion 5ffdb5fee3e578a5fb4d3c98
+[12-01-2021 15:45:18][INFO][SUCCESS] Traducción realizada correctamente con id 5ffdb5fee3e578a5fb4d3c98
+[12-01-2021 15:45:18][INFO][SUCCESS] Se guardan en bd los datos del cliente que accede con id 5ffdb5fee3e578a5fb4d3c99
+[12-01-2021 15:47:19][INFO][SUCCESS] File removed on path /home/sergiopj/WORK/photo-translator/photo-translator-backend/src/images/image.png
+[12-01-2021 15:47:19][INFO][ERROR] No se pudo realizar la traducción
